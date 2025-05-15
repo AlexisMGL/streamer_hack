@@ -1,0 +1,1 @@
+-NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File "C:\Users\Test\Documents\streamer\run_amstreamer.ps1"
